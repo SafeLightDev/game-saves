@@ -8,7 +8,7 @@ Where the original author left a README, or the author was known, their credit i
 
 ## What is in a set
 
-Each set is a GitHub Release with one zip attached. The zip has its own README. Sets differ in what they do and how many saves they hold, so each release page says what the saves contain and how to use them.
+Each set is a GitHub Release with one zip attached. Sets differ in what they do and how many saves they hold, so each release page says what the saves contain.
 
 ## Sets
 
@@ -18,11 +18,4 @@ Each set is a GitHub Release with one zip attached. The zip has its own README. 
 
 ## How to use a set
 
-1. Use a throwaway profile first, not your main one.
-2. Resign the save to your profile with a save resigner.
-3. Copy it to `Content\<your profile ID>\<Title ID>\00000001\` on the console.
-4. Follow the set's own README for what to load and in what order.
-
-Some sets have several saves to load one at a time, in order. Others are a single save.
-
-These saves are for consoles that can load resigned saves. Back up your own saves first.
+Every set is different. Each zip has a README with the files and the steps for that set, so start there.
