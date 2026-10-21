@@ -18,6 +18,7 @@ Each set is a GitHub Release with one zip attached. Sets differ in what they do 
 | Dynasty Warriors 6 | All regions, one Title ID per region | Load and pop, 5,000 G, 48 achievements per region | [Release](https://github.com/SafeLightDev/game-saves/releases/tag/4B4F07E0-dynasty-warriors-6-r1) |
 | Perfect Dark Zero | Title ID 4D5307D3 | Load and pop, 1,000 G, 50 achievements | [Release](https://github.com/SafeLightDev/game-saves/releases/tag/4D5307D3-perfect-dark-zero-r1) |
 | Portal: Still Alive | XBLA, Title ID 58410960 | Load and pop, 200 G | [Release](https://github.com/SafeLightDev/game-saves/releases/tag/58410960-portal-still-alive-r1) |
+| Project Sylpheed - Arc of Deception | NTSC/NTSC - J, Title ID 535107D4 | Load and pop, 1,000 G, 24 achievements | [Release](https://github.com/SafeLightDev/game-saves/releases/tag/535107D4-project-sylpheed-r1) |
 | Splatterhouse | Title ID 4E4D07F0 | Load and pop, 1,000 G | [Release](https://github.com/SafeLightDev/game-saves/releases/tag/4E4D07F0-splatterhouse-r1) |
 | Tenchu Z | NTSC and Japan, Title IDs 465307D7 and 465307D1 | Load and pop, 2,000 G | [Release](https://github.com/SafeLightDev/game-saves/releases/tag/465307D7-tenchu-z-r1) |
 | Tengai Makyou Ziria: Haruka naru Jipang | NTSC-J, Title ID 485507D2 | Load and pop, 1,000 G, 50 achievements | [Release](https://github.com/SafeLightDev/game-saves/releases/tag/485507D2-ziria-r1) |
